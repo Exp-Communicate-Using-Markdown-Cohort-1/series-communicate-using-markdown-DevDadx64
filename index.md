@@ -11,5 +11,7 @@
 
 # Adding code examples using mardown language
 
+```
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
